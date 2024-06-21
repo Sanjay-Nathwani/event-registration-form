@@ -1,5 +1,4 @@
 import EventRegistrationForm from "./components/EventRegistrationForm";
-import "./styles/EventRegistrationForm.css";
 
 const styles = {
   textAlign: "center",
